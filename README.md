@@ -11,8 +11,8 @@ Basketball has various rules that must be followed, one of which is the travelin
 ## Setup
 1. Clone project
 2. Open project in VSCode
-3. Create a virtual environment: `python -m venv venv_name`
-4. Activate virtual environment: `\Scripts\activate`
+3. Create a virtual environment: `python -m venv myvenv`
+4. Activate virtual environment: `\myvenv\Scripts\activate`
 5. Install ultralytics package: `pip install ultralytics`
 6. Run Python scripts `travel_detectv2.py` 
 7. Change the input of the video to either your webcam (`cv2.VideoCapture(0)`)
